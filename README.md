@@ -1,18 +1,33 @@
 # Weather News Chatbot
 
-A Flask-based chatbot that provides real-time weather and news information.
+A Flask-based chatbot that provides weather updates and latest news using external APIs.
 
 ## Features
-- Get live weather updates
-- News integration
-- Chat history storage
+- Get real-time weather updates
+- Fetch latest news headlines
+- Simple chatbot interface
+- Built using Python and Flask
 
 ## Tech Stack
 - Python
 - Flask
 - HTML / CSS
-- SQLite
+- APIs
 
-## Run Locally
+## Installation
 
 Clone the repository:
+
+git clone https://github.com/ashishkumar246/Weather-news-chatbot.git
+
+Install dependencies:
+
+pip install -r requirements.txt
+
+Run the application:
+
+python app.py
+
+Then open:
+
+http://127.0.0.1:5000
