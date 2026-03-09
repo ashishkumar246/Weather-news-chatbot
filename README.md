@@ -33,5 +33,10 @@ Then open:
 http://127.0.0.1:5000
 
 ##Interface
-<img width="908" height="831" alt="image" src="https://github.com/user-attachments/assets/a4bbbefa-097e-4669-b89b-a02a7b69f63b" />
 
+## Interface
+
+<p float="left">
+  <img src="Screenshot 2026-03-09 145830.png" width="45%" />
+  <img src="Screenshot 2026-03-09 150022.png" width="45%" />
+</p>
